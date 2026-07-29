@@ -118,8 +118,6 @@ credit-risk-default-prediction/
 │   ├── train_random_forest.py
 │   └── analyze_models.py
 ├── tests/
-├── INTERVIEW_GUIDE.md
-├── RESUME_BULLETS.md
 ├── requirements.txt
 └── run_pipeline.ps1
 ```
@@ -141,4 +139,3 @@ credit-risk-default-prediction/
 ## Key tools
 
 Python, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, Jupyter, and joblib.
-
