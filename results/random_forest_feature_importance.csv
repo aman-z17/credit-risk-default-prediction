@@ -1,0 +1,9 @@
+feature,importance
+credit_utilization,0.21373652325578393
+interest_rate,0.19864380168659462
+late_payments,0.15854773558398044
+debt_to_income_ratio,0.13612185167266422
+credit_history_years,0.10915720620304045
+annual_income,0.06870733408072172
+loan_amount,0.060487029954036854
+employment_years,0.05459851756317784
