@@ -1,0 +1,7 @@
+.venv/
+.matplotlib-cache/
+.jupyter-runtime/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
